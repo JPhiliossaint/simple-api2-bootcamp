@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+h1{
+    font-family: 'Led Panel Station Off', sans-serif;
+    font-size: 60px;
+    color: white;
+    
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    background: url(./../images/bg.jpeg);   
+    background-size: cover;                                            
+}
+h2{
+    font-family: 'Letter Sketch', sans-serif;
+    color: goldenrod
+}
+h3{
+    color: cyan;
+    font-family: 'Letter Sketch', sans-serif;
+}
